@@ -3,7 +3,7 @@ Concepts about tools and OOP with NodeJS
 
 ## Objetivo
 
-### Foi criado uma lib para ler, salvar e checar status de URLs de um arquivo .md. O código está inteiramente comentado com as explicações de cada função e curiosidades sobre o desenvolvimento
+### Foi criado uma lib para ler, salvar e checar status de URLs de um arquivo .md. Utilizamos a API fecth que esta integrada apartir do Node 18. O código está inteiramente comentado com as explicações de cada função e curiosidades sobre o desenvolvimento
 
 ## Alguns links importantes
 

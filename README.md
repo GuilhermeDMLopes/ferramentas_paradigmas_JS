@@ -1,2 +1,2 @@
 # ferramentas_paradigmas_JS
-Cocepts about tools and OOP with NodeJS
+Concepts about tools and OOP with NodeJS
